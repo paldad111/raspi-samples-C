@@ -1,6 +1,23 @@
 # Prerequisites
 *.d
 
+# vim swap
+*.sw*
+
+# cscope files
+cscope.*
+ncscope.*
+
+# gnu global files
+GPATH
+GRTAGS
+GSYMS
+GTAGS
+
+# ctag files
+/tags
+/TAGS
+
 # Object files
 *.o
 *.ko
